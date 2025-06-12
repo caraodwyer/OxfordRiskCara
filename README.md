@@ -12,8 +12,6 @@ This repository contains my submission for the Oxford Risk candidate task focuse
 
 - `CaraOxfordRisk.ipynb`: Main analysis notebook with data loading, integration, and visualizations.
 - `insights_summary.pdf`: Summary of findings from the EDA.
-- `CV.pdf`: My professional CV.
-- `CoverLetter.pdf`: Cover letter including the key result.
 - `README.md`: This overview file.
 
 ---
